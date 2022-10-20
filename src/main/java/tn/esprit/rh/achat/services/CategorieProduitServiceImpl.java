@@ -6,7 +6,7 @@ import tn.esprit.rh.achat.entities.CategorieProduit;
 import tn.esprit.rh.achat.repositories.CategorieProduitRepository;
 
 import java.util.List;
-//hata chy chy chy
+
 @Service
 public class CategorieProduitServiceImpl implements ICategorieProduitService {
 

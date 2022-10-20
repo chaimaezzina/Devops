@@ -22,6 +22,7 @@ public class OperateurController {
 	@ResponseBody
 	public List<Operateur> getOperateurs() {
 		List<Operateur> list = operateurService.retrieveAllOperateurs();
+//change
 		return list;
 	}
 
